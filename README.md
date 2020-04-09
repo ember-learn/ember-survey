@@ -1,7 +1,6 @@
 # ember-survey
 
-This README outlines the details of collaborating on this Ember application.
-A short introduction of this app could easily go here.
+This is the survey.emberjs.com site. It uses the ember-styleguide addon for components.
 
 ## Prerequisites
 
