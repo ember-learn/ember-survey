@@ -58,10 +58,6 @@
     "edition": "octane"
   },
   "dependencies": {
-<<<<<<< HEAD
     "markdown-to-json": "^0.5.4"
-=======
-    "markdown": "^0.5.0"
->>>>>>> f2c8d23d02ab112a3eea37911bbc4e3421f2cd4d
   }
 }
