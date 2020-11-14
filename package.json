@@ -58,6 +58,8 @@
     "edition": "octane"
   },
   "dependencies": {
+    "deepmerge": "^4.2.2",
+    "highcharts": "^8.2.2",
     "markdown-to-json": "^0.5.4"
   }
 }
