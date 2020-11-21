@@ -1,3 +1,5 @@
+[![This project uses GitHub Actions for continuous integration.](https://github.com/ember-learn/ember-survey/workflows/CI/badge.svg)](https://github.com/ember-learn/ember-survey/actions?query=workflow%3ACI)
+
 # ember-survey
 
 This is the survey.emberjs.com site. It uses the ember-styleguide addon for components.
