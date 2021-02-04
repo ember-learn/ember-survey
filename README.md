@@ -2,7 +2,24 @@
 
 # ember-survey
 
-This is the survey.emberjs.com site. It uses the ember-styleguide addon for components.
+This is the survey.emberjs.com site. 
+
+The intent of this repo is to have a permanent home for the annual community survey that is not restricted by the shortcomings of third-party solutions.
+
+## Design Intentions/Requirements
+
+- it uses the ember-styleguide addon 
+- it is fully accessible
+- it demonstrates best practices for forms in Ember (and on the web at large)
+- it allows us to track questions over time
+- it has historical data from past surveys
+- it allows for different questions to be asked each year (if necessary)
+- it has a blueprint for the creation of individual questions
+- individual questions are created in .md files
+- it allows users to traverse one question at a time (like typeform, but accessible)
+- the results are easy to access and review from the front-end
+- it contains scripts to normalize and analyze the results
+
 
 ## Prerequisites
 
